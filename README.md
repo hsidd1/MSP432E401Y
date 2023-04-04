@@ -37,7 +37,7 @@ This repository contains source code for various projects I have flashed onto th
 ## Acknowledgements
 
 * Text:“Embedded Systems: Introduction to ARM Cortex-M Microcontrollers", 5th edition,
-6th printing, January 2019, by Valvano – Chapter 10.1, 10.4, 10.5
+6th printing, January 2019, by Valvano 
 
 * S. Athar, T. E. Doyle, and Y. Haddara, Computer Engineering 2DX3 2022-2023 Laboratory Manual. Hamilton: 
 DEPARTMENT OF ELECTRICAL AND COMPUTER ENGINEERING, MCMASTER

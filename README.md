@@ -34,6 +34,10 @@ This repository contains source code for various projects I have flashed onto th
 ### [L8-Collecting-Distance-Data](L8-Collecting-Distance-Data)
 * The aim of this project was to communicate with a digital sensor (TOF VL53L1X) and collect data from it using I2C communication. The completed project demonstrates the ability to effectively communicate with the sensor and collect and process data. Additionally, the project utilizes Pyserial and Open3D to visualize the collected data.
 
+## Notes
+
+If a Keil project fails to locate path to the respective source file to flash to the microcontroller, the path can be updated by right-clicking the respective .c file and updating its path within the project.
+
 ## Acknowledgements
 
 * Text:“Embedded Systems: Introduction to ARM Cortex-M Microcontrollers", 5th edition,

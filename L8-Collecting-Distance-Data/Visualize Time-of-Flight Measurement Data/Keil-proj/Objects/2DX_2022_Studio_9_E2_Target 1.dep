@@ -1,9 +1,0 @@
-Dependencies for Project '2DX_2022_Studio_9_E2', Target 'Target 1': (DO NOT MODIFY !)
-CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
-F (.\onboardLEDs.c)(0x642B2FAD)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Hafez\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Hafez\AppData\Local\Arm\Packs\TexasInstruments\MSP432E4_DFP\3.2.6\Device\Include-D__UVISION_VERSION="529" -D_RTE_ -D__MSP432E401Y__-o .\objects\onboardleds.o --omf_browse .\objects\onboardleds.crf --depend .\objects\onboardleds.d)
-F (.\PLL.c)(0x642B2FAE)()
-F (.\SysTick.c)(0x642B2FAE)()
-F (.\uart.c)(0x642B2FAE)()
-F (.\2DX_2022_Studio_9_E2.c)(0x642B388E)()
-F (RTE/Device/MSP432E401Y/startup_msp432e401y_uvision.s)(0x642B2FAE)()
-F (RTE/Device/MSP432E401Y/system_msp432e401y.c)(0x642B2FAE)()
